@@ -1,0 +1,10 @@
+/Users/edcourage/Projects/c#_practice/helloWorld/bin/Debug/netcoreapp3.1/helloWorld.deps.json
+/Users/edcourage/Projects/c#_practice/helloWorld/bin/Debug/netcoreapp3.1/helloWorld.runtimeconfig.json
+/Users/edcourage/Projects/c#_practice/helloWorld/bin/Debug/netcoreapp3.1/helloWorld.runtimeconfig.dev.json
+/Users/edcourage/Projects/c#_practice/helloWorld/bin/Debug/netcoreapp3.1/helloWorld.dll
+/Users/edcourage/Projects/c#_practice/helloWorld/bin/Debug/netcoreapp3.1/helloWorld.pdb
+/Users/edcourage/Projects/c#_practice/helloWorld/obj/Debug/netcoreapp3.1/helloWorld.csprojAssemblyReference.cache
+/Users/edcourage/Projects/c#_practice/helloWorld/obj/Debug/netcoreapp3.1/helloWorld.AssemblyInfoInputs.cache
+/Users/edcourage/Projects/c#_practice/helloWorld/obj/Debug/netcoreapp3.1/helloWorld.AssemblyInfo.cs
+/Users/edcourage/Projects/c#_practice/helloWorld/obj/Debug/netcoreapp3.1/helloWorld.dll
+/Users/edcourage/Projects/c#_practice/helloWorld/obj/Debug/netcoreapp3.1/helloWorld.pdb
